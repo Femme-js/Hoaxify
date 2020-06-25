@@ -23,9 +23,9 @@ News.csv : A full trained dataset on following attributes-
 
 I fit 4 models to the training set, with testing accuracy of the models being:
 
-- Logistic Regression (91.72%)
+- Logistic Regression (91.16%)
 - Naive Bayes (82.32%)
-- Decision Tree (80.42%)
-- PassiveAggressive Classifier (94.0%)
+- Decision Tree (80.49%)
+- PassiveAggressive Classifier (93.12%)
 
 
