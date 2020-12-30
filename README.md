@@ -7,13 +7,31 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ## Data Curation
 
-- ####Crowdsoucing for collection of data of fake news
-- ####Already prepared data.
-- ####Attributes:
-      - news: news article no.
-      - title: the title of a news article
-      - text: the text of the article; could be incomplete
-      - label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
+- Crowdsoucing for collection of data of fake news
+- Already prepared data.
+- Attributes:
+       news: news article no.
+       title: the title of a news article
+       text: the text of the article; could be incomplete
+       label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
+       
+## Modelling
+
+- ML Classifier Models
+- Neural Nets
+
+## Comparing the result matrices
+
+- Creating visulations for comparing the result matrices of different algorithms. 
+
+## Dependencies
+
+- Python 3.x
+- Keras/Tensorflow
+- NLTK
+- NumPy
+- Pandas
+- sklearn
 
 
 
