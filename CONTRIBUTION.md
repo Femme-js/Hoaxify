@@ -101,3 +101,4 @@ For major changes, you are welcomed to open an issue  about what you would like 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Femme-js/Hoaxify)
 
 </p>
+
