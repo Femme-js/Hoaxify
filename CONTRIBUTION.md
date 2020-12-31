@@ -43,16 +43,15 @@ git clone https://github.com/<your-github-username>/Hoaxify.git
 ```bash
 cd Hoaxify
 ```
-**4.** Make a folder inside the root folders(Python/ or Java/) with folder name , insde it put your code files.
 
-**5.** Make a feature branch
+**4.** Make a feature branch
 ```bash
 git checkout -b <branch-name>
 
 ```
-**6.** Make changes in source code/ project.
+**5.** Make changes in source code/ project.
 
-**7.** Stage your changes and commit
+**6.** Stage your changes and commit
 
 ```bash
 #Add changes to Index
@@ -62,15 +61,15 @@ git add .
 git commit -m "<your_commit_message>"
 ```
 
-**8.** Push your local commits to the remote repo.
+**7.** Push your local commits to the remote repo.
 
 ```bash
 git push origin <brach-name>
 ```
 
-**9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to [Hoaxify](https://github.com/Femme-js/Hoaxify) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Hoaxify](https://github.com/Femme-js/Hoaxify) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
