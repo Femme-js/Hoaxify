@@ -5,7 +5,7 @@ Fake news is an increasingly common feature of today’s political landscape. To
 detectors adopting natural language processing (NLP) to analyze word patterns and statistical correlations of news articles. 
 The datset for training the ML (DL) model can be curated from crowdsourcing techniques or we can use already curated datasets from kaggle etc.
 
-## Data Curation
+### Data Curation
 
 - Crowdsoucing for collection of data of fake news
 - Already prepared data.
@@ -15,16 +15,16 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
        text: the text of the article; could be incomplete
        label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
        
-## Modelling
+### Modelling
 
 - ML Classifier Models
 - Neural Nets
 
-## Comparing the result matrices
+### Comparing the result matrices
 
 - Creating visulations for comparing the result matrices of different algorithms. 
 
-## Dependencies
+### Dependencies
 
 - Python 3.x
 - Keras/Tensorflow
@@ -32,6 +32,21 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 - NumPy
 - Pandas
 - sklearn
+
+
+## CONTRIBUTION
+
+### Tech-stack Required
+
+- Python
+- Basics of NLP
+- Understanding of Machine Learning Classification Algorithms
+- Knowledge of any Deep Learning Framework, Tensorflow or Keras
+- Numpy and Pandas
+
+
+
+
 
 
 
