@@ -7,7 +7,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ### Data Curation
 
-- Crowdsoucing for collection of data of fake news.
+- Crowdsourcing for collection of data of fake news.
 - Already prepared data.
 - Attributes:
        news: news article no.
@@ -22,7 +22,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ### Comparing the result matrices
 
-- Creating visulations for comparing the result matrices of different algorithms. 
+- Creating visualizations for comparing the result matrices of different algorithms. 
 
 ### Dependencies
 
