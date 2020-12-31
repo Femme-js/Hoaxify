@@ -121,4 +121,6 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
 
+## 💥 How to Contribute ?
+- If you wish to contribute kindly check the [CONTRIBUTION.md](https://github.com/Femme-js/Hoaxify/blob/master/CONTRIBUTION.md)🤝
 
