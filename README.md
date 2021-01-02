@@ -99,5 +99,9 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
 
+## Our Contributors
+
+[CONTRIBUTORS.md](/CONTRIBUTORS.md)
+
 
 
