@@ -50,7 +50,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ### 💥 How to Contribute ?
 - If you wish to contribute kindly check the [CONTRIBUTION.md](https://github.com/Femme-js/Hoaxify/blob/master/CONTRIBUTION.md)🤝
-
+- Also checkout Code of conduct of this project [here](https://github.com/Femme-js/Hoaxify/blob/master/CODE_OF_CONDUCT.md)🤝
 
 
 
@@ -82,7 +82,7 @@ News.csv : A full trained dataset on following attributes-
 - text: the text of the article; could be incomplete
 - label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
 
-### Dependencies
+### Dependencies 
 
 - Pyhton 3.x
 - NLTK
@@ -101,5 +101,12 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
 
+### Open-source Programs
 
+
+
+
+Winter of Code is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
+
+<img src="https://devscript.tech/woc/img/WOC-logo.png" width="50%">
 
