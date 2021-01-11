@@ -1,3 +1,5 @@
+![Hoaxify](https://socialify.git.ci/Femme-js/Hoaxify/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fgdurl.com%2FuIyI&owner=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Light)
+
 # Hoaxify 2.0
 
 ### Introduction
@@ -5,9 +7,9 @@ Fake news is an increasingly common feature of today’s political landscape. To
 detectors adopting natural language processing (NLP) to analyze word patterns and statistical correlations of news articles. 
 The datset for training the ML (DL) model can be curated from crowdsourcing techniques or we can use already curated datasets from kaggle etc.
 
-## Data Curation
+### Data Curation
 
-- Crowdsoucing for collection of data of fake news
+- Crowdsourcing for collection of data of fake news.
 - Already prepared data.
 - Attributes:
        news: news article no.
@@ -15,16 +17,16 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
        text: the text of the article; could be incomplete
        label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
        
-## Modelling
+### Modelling
 
 - ML Classifier Models
 - Neural Nets
 
-## Comparing the result matrices
+### Comparing the result matrices
 
-- Creating visulations for comparing the result matrices of different algorithms. 
+- Creating visualizations for comparing the result matrices of different algorithms. 
 
-## Dependencies
+### Dependencies
 
 - Python 3.x
 - Keras/Tensorflow
@@ -32,6 +34,24 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 - NumPy
 - Pandas
 - sklearn
+
+
+## CONTRIBUTION
+
+### Tech-stack Required
+
+- Python
+- Basics of NLP
+- Understanding of Machine Learning Classification Algorithms
+- Knowledge of any Deep Learning Framework, Tensorflow or Keras
+- Numpy and Pandas
+
+
+
+### 💥 How to Contribute ?
+- If you wish to contribute kindly check the [CONTRIBUTION.md](https://github.com/Femme-js/Hoaxify/blob/master/CONTRIBUTION.md)🤝
+
+
 
 
 
@@ -80,5 +100,6 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Naive Bayes (82.32%)
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
+
 
 
