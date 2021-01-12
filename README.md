@@ -40,7 +40,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ## CONTRIBUTION
 
-### Tech-stack Required 📕
+### Tech-stack Required 📚
 
 - Python
 - Basics of NLP
