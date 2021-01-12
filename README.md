@@ -24,7 +24,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 - ML Classifier Models
 - Neural Nets
 
-### Comparing the result matrices compa
+### Comparing the result matrices 🔎
 
 - Creating visualizations for comparing the result matrices of different algorithms. 
 
