@@ -3,11 +3,13 @@
 # Hoaxify 2.0
 
 ### Introduction
+<img src="https://media.giphy.com/media/xT4ApznCZTtuBjmHHa/giphy.gif" width="50%"><br>
 Fake news is an increasingly common feature of today’s political landscape. To solve this issue, researchers and media experts have proposed fake news
 detectors adopting natural language processing (NLP) to analyze word patterns and statistical correlations of news articles. 
 The datset for training the ML (DL) model can be curated from crowdsourcing techniques or we can use already curated datasets from kaggle etc.
 
 ### Data Curation
+<img src="https://media.giphy.com/media/xTiTnhXjLyayuvu3hm/giphy.gif" width="50%">
 
 - Crowdsourcing for collection of data of fake news.
 - Already prepared data.
@@ -17,16 +19,16 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
        text: the text of the article; could be incomplete
        label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
        
-### Modelling
+### Modelling 🎆
 
 - ML Classifier Models
 - Neural Nets
 
-### Comparing the result matrices
+### Comparing the result matrices 🔎
 
 - Creating visualizations for comparing the result matrices of different algorithms. 
 
-### Dependencies
+### Dependencies 👇
 
 - Python 3.x
 - Keras/Tensorflow
@@ -38,7 +40,7 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 ## CONTRIBUTION
 
-### Tech-stack Required
+### Tech-stack Required 📚
 
 - Python
 - Basics of NLP
@@ -49,7 +51,9 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 
 ### 💥 How to Contribute ?
+<img src="https://media.giphy.com/media/1xOe0qgiYLYWE6pkki/giphy.gif" width="40%"><br>
 - If you wish to contribute kindly check the [CONTRIBUTION.md](https://github.com/Femme-js/Hoaxify/blob/master/CONTRIBUTION.md)🤝
+- Also checkout Code of conduct of this project [here](https://github.com/Femme-js/Hoaxify/blob/master/CODE_OF_CONDUCT.md)🤝
 
 
 
@@ -70,11 +74,11 @@ The datset for training the ML (DL) model can be curated from crowdsourcing tech
 
 
 
-
-# Hoaxify 1.0
+# Hoaxify 1.0 
 Hoaxify is a Fake News Classifier built using NLP Techniques.
 
 ### Dataset
+<img src="https://media.giphy.com/media/XZftQQBZHJC8e9ZXKd/giphy.gif" width="40%">
 
 News.csv : A full trained dataset on following attributes-
 - news: news article no.
@@ -82,7 +86,7 @@ News.csv : A full trained dataset on following attributes-
 - text: the text of the article; could be incomplete
 - label: a label that marks the article as potentially unreliable. where FAKE: unreliable and REAL: reliable
 
-### Dependencies
+### Dependencies 👇
 
 - Pyhton 3.x
 - NLTK
@@ -92,7 +96,7 @@ News.csv : A full trained dataset on following attributes-
 - CountVectorizer
 - TfidfTransformer
 
-### Modelling
+### Modelling 🎆
 
 I fit 4 models to the training set, with testing accuracy of the models being:
 
@@ -100,6 +104,3 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Naive Bayes (82.32%)
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
-
-
-
