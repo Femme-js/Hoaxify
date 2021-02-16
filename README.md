@@ -105,64 +105,17 @@ I fit 4 models to the training set, with testing accuracy of the models being:
 - Decision Tree (80.49%)
 - PassiveAggressive Classifier (93.12%)
 
-## Contributors 🌟 
+## ❤️ Project Admin
 
-Thanks goes to these wonderful people ✨✨:
-<table>
-	<tr>
-		<td align="center">
-			<a href="https://github.com/Femme-js">
-				<img src="https://avatars3.githubusercontent.com/u/48143381?v=4" width="100px" alt="" />
-				<br /> <sub><b>Femme-js</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Femme-js">
-                👑 Author
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/akrish4">
-				<img src="https://avatars0.githubusercontent.com/u/61831021?v=4" width="100px" alt="" />
-				<br /> <sub><b>akrish4</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=akrish4">
-                💻
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/shraiyya">
-				<img src="https://avatars1.githubusercontent.com/u/55914007?v=4" width="100px" alt="" />
-				<br /> <sub><b>shraiyya</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=shraiyya">
-                💻
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Sloth-Panda">
-				<img src="https://avatars2.githubusercontent.com/u/70213384?v=4" width="100px" alt="" />
-				<br /> <sub><b>Sloth-Panda</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Sloth-Panda">
-                💻
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Khimit">
-				<img src="https://avatars2.githubusercontent.com/u/46605529?v=4" width="100px" alt="" />
-				<br /> <sub><b>Khimit</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Khimit">
-                💻
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/muthuannamalai12">
-				<img src="https://avatars2.githubusercontent.com/u/64524822?v=4" width="100px" alt="" />
-				<br /> <sub><b>muthuannamalai12</b></sub>
-			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=muthuannamalai12">
-                💻
-            </a>
-		</td>
-	</tr>
-</table>
+|                                     <a href="https://github.com/Femme-js"><img src="https://avatars.githubusercontent.com/u/48143381?v=4" width=150px height=150px /></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Jeevanshi](https://github.com/Femme-js)**                                                                                       |
+
+## Contributors 🌟
+
+Thanks goes to these wonderful people ✨:
+
+
+<a href="https://github.com/Femme-js/Hoaxify/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Femme-js/Hoaxify" />
+</a>
