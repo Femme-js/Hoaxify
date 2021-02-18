@@ -1,0 +1,11 @@
+.jumbo-cls{
+    width: 100%;
+    top: 20%;
+    height: 400px;
+}
+
+@media (max-width: 992px) {
+    .jumbo-cls{
+        top: 40%;
+    }
+}
