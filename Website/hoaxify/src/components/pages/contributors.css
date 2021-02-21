@@ -1,0 +1,50 @@
+.jumbo{
+    width: 100%;
+    height: 350px;
+    top: 25%;
+}
+
+.cont img{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+}
+
+.cont h3{
+    font-style: italic;
+    position: absolute;
+    top: 77%;
+}
+
+.cont h2{
+    font-family: Algerian;
+    position: absolute;
+    top: 70%;
+    left: 43%;
+}
+
+@media (max-width: 992px) {
+    .jumbo{
+        top: 40%;
+    }
+}
+
+@media (max-width: 768px) {
+    .cont h3{
+        font-size: 22px;
+    }
+    .cont h2{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 576px) {
+    .cont h3{
+        font-size: 18px;
+    }
+    .cont h2{
+        font-size: 14px;
+    }
+}
+
+
