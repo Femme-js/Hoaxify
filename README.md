@@ -1,6 +1,6 @@
 ![Hoaxify](https://socialify.git.ci/Femme-js/Hoaxify/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fgdurl.com%2FuIyI&owner=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Light)
 
-# Hoaxify 2.0
+# Hoaxify 2.0 - Open-Sourced Version of Hoaxify 1.0
 
 ### Introduction
 <img src="https://media.giphy.com/media/xT4ApznCZTtuBjmHHa/giphy.gif" width="50%"><br>
